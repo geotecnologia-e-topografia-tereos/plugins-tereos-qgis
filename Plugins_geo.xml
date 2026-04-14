@@ -6,7 +6,7 @@
         <version>1.0</version>
         <qgis_minimum_version>3.0</qgis_minimum_version>
         <homepage>https://github.com/RafaelRibeiroBSC/plugins-tereos-qgis</homepage>
-        <file_name>consulta_bloco_v1.0.zip</file_name>
+        <file_name>Geotecnologia_e_Topografia.zip</file_name>
         <author_name>Rafael Ribeiro</author_name>
         <download_url>https://rafaelribeirobsc.github.io/plugins-tereos-qgis/Geotecnologia_e_Topografia.zip/</download_url>
     </pyqgis_plugin>
