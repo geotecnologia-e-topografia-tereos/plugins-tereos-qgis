@@ -5,7 +5,7 @@
         <about>Desenvolvido para otimizar a rotina da Topografia e Tecnologia.</about>
         <version>2.9</version>
         <qgis_minimum_version>3.0</qgis_minimum_version>
-        <homepage>https://github.com/RafaelRibeiroBSC/plugins-tereos-qgis</homepage>
+        <homepage>https://github.com/Geotecnologia-e-Topografia-Tereos/plugins-tereos-qgis</homepage>
         <file_name>geotecnologia_e_topografia.zip</file_name>
         <author_name>Geotecnologia e Topografia</author_name>
         <download_url>https://geotecnologia-e-topografia-tereos.github.io/plugins-tereos-qgis/geotecnologia_e_topografia.zip</download_url>
