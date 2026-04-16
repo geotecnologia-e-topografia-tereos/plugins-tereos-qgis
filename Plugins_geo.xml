@@ -1,13 +1,13 @@
 <?xml version = "1.0"?>
 <plugins>
-    <pyqgis_plugin name="Geotecnologia e Topografia - Tereos" version="2.3">
+    <pyqgis_plugin name="Geotecnologia e Topografia - Tereos" version="2.4">
         <description>Ferramentas para uso do setor de Geotecnologia e Topografia da Tereos.</description>
         <about>Desenvolvido para otimizar a rotina da Topografia e Tecnologia.</about>
-        <version>2.3</version>
+        <version>2.4</version>
         <qgis_minimum_version>3.0</qgis_minimum_version>
         <homepage>https://github.com/RafaelRibeiroBSC/plugins-tereos-qgis</homepage>
         <file_name>geotecnologia_e_topografia.zip</file_name>
-        <author_name>Rafael Ribeiro</author_name>
+        <author_name>Geotecnologia e Topografia</author_name>
         <download_url>https://rafaelribeirobsc.github.io/plugins-tereos-qgis/geotecnologia_e_topografia.zip</download_url>
     </pyqgis_plugin>
 </plugins>
