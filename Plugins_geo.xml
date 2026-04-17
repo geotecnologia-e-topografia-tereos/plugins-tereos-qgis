@@ -1,9 +1,9 @@
 <?xml version = "1.0"?>
 <plugins>
-    <pyqgis_plugin name="Geotecnologia e Topografia - Tereos" version="2.9">
+    <pyqgis_plugin name="Geotecnologia e Topografia - Tereos" version="2.10">
         <description>Ferramentas para uso do setor de Geotecnologia e Topografia da Tereos.</description>
         <about>Desenvolvido para otimizar a rotina da Topografia e Tecnologia.</about>
-        <version>2.9</version>
+        <version>2.10</version>
         <qgis_minimum_version>3.0</qgis_minimum_version>
         <homepage>https://github.com/Geotecnologia-e-Topografia-Tereos/plugins-tereos-qgis</homepage>
         <file_name>geotecnologia_e_topografia.zip</file_name>
